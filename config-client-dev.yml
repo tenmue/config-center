@@ -1,3 +1,6 @@
-info:
-  profile: dev
-  from: git
+#info:
+#  profile: dev
+#  from: git
+
+server:
+  port: 3001
